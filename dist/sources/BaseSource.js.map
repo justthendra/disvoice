@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseSource.js","sourceRoot":"","sources":["../../src/sources/BaseSource.ts"],"names":[],"mappings":";;;AAGA,MAAsB,UAAU;IAkB9B;;OAEG;IACO,KAAK,CAAC,KAAa;QAC3B,IAAI,CAAC;YACH,IAAI,GAAG,CAAC,KAAK,CAAC,CAAC;YACf,OAAO,IAAI,CAAC;QACd,CAAC;QAAC,MAAM,CAAC;YACP,OAAO,KAAK,CAAC;QACf,CAAC;IACH,CAAC;CACF;AA7BD,gCA6BC"}
