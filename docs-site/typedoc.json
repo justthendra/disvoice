@@ -1,0 +1,10 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "entryPoints": [
+        "../src/index.ts"
+    ],
+    "json": "docs.json",
+    "tsconfig": "../tsconfig.json",
+    "readme": "none",
+    "githubPages": false
+}
