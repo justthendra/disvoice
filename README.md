@@ -67,7 +67,7 @@ Temel kullanım adımları:
 
 ## GitHub Bağlantısı
 
-https://github.com/kodikasorg/disvoice
+https://github.com/justthendra/disvoice
 
 ## Lisans
 
