@@ -65,9 +65,9 @@ Temel kullanım adımları:
 - Spotify
 - SoundCloud
 
-## GitHub Bağlantısı
+## NPM Bağlantısı
 
-https://github.com/justthendra/disvoice
+[NPM Modülü](https://www.npmjs.com/package/disvoice)
 
 ## Lisans
 
